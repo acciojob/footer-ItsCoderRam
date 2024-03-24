@@ -1,1 +1,31 @@
 /* your code here */
+
+body{
+	background:black;
+}
+.logo_name{
+	color:white;
+	font-size:28px;
+	margin-left:20px;
+	
+	padding:30px;
+}
+.logo-details{
+	margin-top:20px;
+}
+img{
+	width:25px;
+	height:20px;
+	padding:6px
+}
+.top{
+	display:flex;
+}
+.media-icons{
+	width:400px;
+	height:100px;
+	margin-left:290px;
+	margin-top:20px
+}
+
+
