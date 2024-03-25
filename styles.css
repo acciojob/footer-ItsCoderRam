@@ -22,10 +22,52 @@ img{
 	display:flex;
 }
 .media-icons{
-	width:400px;
+	width:300px;
 	height:100px;
-	margin-left:290px;
-	margin-top:20px
+	margin-left:400px;
+	background:wheat;
 }
+.link-boxes{
+	color:whitesmoke;
+	display:flex;
+	justify-content:center;
+	margin-top:100px;
+	padding:20px;
+}
+li{
+	list-style:none;
+	padding:3px
+}
+.mid{
+	padding:30px
+}
+a{
+	font-size:20px;
+	width:2px;
+}
+p{
+	color:white;
+}
+span{
+	margin-left:20px;
+	color:white;
+	
+}
+.spn{
+	margin-left:350px;
+	margin-top:20px;
+}
+#foot{
+	margin-top:100px;
+	margin-left:30px;
+	height:40px
+}
+#spn-c{
+	margin-left:40px;
+	padding:10px;
+	margin-top:20px;
 
-
+}
+.bottom-details{
+background-color:#595959;
+}
