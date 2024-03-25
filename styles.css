@@ -25,7 +25,8 @@ img{
 	width:300px;
 	height:100px;
 	margin-left:400px;
-	background:wheat;
+	display:flex;
+	
 }
 .link-boxes{
 	color:whitesmoke;
@@ -44,6 +45,7 @@ li{
 a{
 	font-size:20px;
 	width:2px;
+	color:white
 }
 p{
 	color:white;
